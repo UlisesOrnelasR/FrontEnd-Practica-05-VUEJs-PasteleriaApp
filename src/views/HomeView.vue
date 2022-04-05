@@ -114,8 +114,12 @@
 </template>
 
 <script>
-export default {
 
+
+export default {
+  components:{
+    
+  }
 }
 </script>
 
@@ -183,10 +187,6 @@ input {
  
   margin-top: -35px;
   margin-bottom: -35px;
-  
-  
-
-  
 }
 /* Saboreesssss */ 
 .menusabores {
