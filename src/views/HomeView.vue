@@ -1,7 +1,8 @@
 <template>
   <div class="home">
     <div class="header">
-      <h2 class="tittle">Hi <b>Fanny!</b></h2>
+      <h2 class="tittle">Hi <b>Fanny!</b></h2> 
+      <doPedido></doPedido>
       <div class="input">
         <input type="text" placeholder="Find what you want...">
         <div class="icon-input">
@@ -114,11 +115,11 @@
 </template>
 
 <script>
-
+import doPedido from '@/components/toPedido.vue'
 
 export default {
   components:{
-    
+    doPedido
   }
 }
 </script>
@@ -132,6 +133,7 @@ export default {
     font-size: 40px;
     font-weight: 100;
     color: #5CA4A9;
+    
 }
 /* Inputt */ 
 .input {
