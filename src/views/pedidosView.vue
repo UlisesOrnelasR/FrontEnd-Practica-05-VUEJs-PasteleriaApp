@@ -1,5 +1,7 @@
 <template>
-  <h2>favoritoooos</h2>
+  <div class="pedidos">
+    <h1>soy un pedidoooooo</h1>
+  </div>
 </template>
 
 <script>

@@ -8,8 +8,8 @@
         <router-link to="/Pastelero">
           <i class='bx bx-id-card bx-md'></i>
         </router-link>
-        <router-link to="/favoritos"> 
-          <i class='bx bx-heart bx-md'></i>
+        <router-link to="/Pedidos"> 
+          <i class='bx bx-cake bx-md'></i>
         </router-link> 
         <router-link to="/historial">
           <i class='bx bx-time-five bx-md'></i>
@@ -20,7 +20,11 @@
   </div>
 </template>
 
-
+<script>
+export default {
+  
+}
+</script>
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto:wght@300&display=swap');
