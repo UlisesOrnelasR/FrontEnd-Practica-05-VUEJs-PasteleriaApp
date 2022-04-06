@@ -1,6 +1,6 @@
 <template>
   <div class="pedidos">
-    <h1>soy un pedidoooooo</h1>
+    <h2 class="tittle">Place an <b>Order!</b></h2>
   </div>
 </template>
 
@@ -11,5 +11,7 @@ export default {
 </script>
 
 <style>
-
+.pedidos {
+  margin: 20px;
+}
 </style>
