@@ -69,7 +69,7 @@
             <img src="@/assets/cubiertadechocolate.png" width="50px">
           </div>
           <div class="adornos-text">
-            <div class="adornos-tittle">Chocolate covered</div>
+            <div class="adornos-tittle">Chocolate</div>
             <div class="adornos-price">$2.0</div>
           </div>
         </div>
@@ -78,7 +78,7 @@
             <img src="@/assets/cubiertadefrutas.png" width="50px">
           </div>
           <div class="adornos-text">
-            <div class="adornos-tittle">Fruit toppings</div>
+            <div class="adornos-tittle">Fruits</div>
             <div class="adornos-price">$2.2</div>
           </div>
         </div>
@@ -105,7 +105,7 @@
             <img src="@/assets/driedfruit.png" width="50px">
           </div>
           <div class="adornos-text">
-            <div class="adornos-tittle">Dried fruit</div>
+            <div class="adornos-tittle">Nuts</div>
             <div class="adornos-price">$3.0</div>
           </div>
         </div>
