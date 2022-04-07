@@ -5,14 +5,14 @@
         <router-link to="/">
           <i class='bx bx-home bx-md'></i>
           </router-link> 
-        <router-link to="/Pastelero">
-          <i class='bx bx-id-card bx-md'></i>
-        </router-link>
         <router-link to="/Pedidos"> 
           <i class='bx bx-cake bx-md'></i>
         </router-link> 
         <router-link to="/historial">
           <i class='bx bx-time-five bx-md'></i>
+        </router-link>
+        <router-link to="/Pastelero">
+          <i class='bx bx-id-card bx-md'></i>
         </router-link> 
       </div>
     </div>
