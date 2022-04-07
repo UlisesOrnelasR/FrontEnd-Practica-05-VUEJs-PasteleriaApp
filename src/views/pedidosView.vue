@@ -149,8 +149,7 @@ p{
   text-align: center;
 }
 input[type=radio] {
-  width: auto;
-  
+  width: auto; 
 }
 .radio-p {
   font-size: 17px;
