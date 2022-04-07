@@ -37,8 +37,7 @@ export default {
 .navbar-container {
   width: 100%;
   position: fixed;
-  bottom: 0;
-  
+  bottom: 0; 
 }
 
 .navbar-content {

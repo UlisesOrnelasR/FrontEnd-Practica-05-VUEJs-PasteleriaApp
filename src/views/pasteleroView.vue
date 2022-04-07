@@ -43,7 +43,6 @@ export default {
 
 .pasteleroView {
   margin: 20px;
-  
 }
 /* infoooo */
 .info-header {
@@ -73,7 +72,4 @@ export default {
   margin-bottom: -35px;
   margin-left: 40px;
 }
-
-
-
 </style>
