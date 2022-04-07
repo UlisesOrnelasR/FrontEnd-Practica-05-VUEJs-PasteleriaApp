@@ -101,7 +101,6 @@ p{
   flex-wrap: wrap;
   min-height: 50px;
   margin-left: 20px;
-  align-items: center;
 }
 .radio-container>*{
   flex:1 1 auto;
@@ -109,13 +108,13 @@ p{
   text-align: center;
 }
 input[type=radio] {
-  width: auto; 
+  width: auto;
+  
 }
 .radio-p {
   font-size: 17px;
   margin: 0;
   padding: 0;
-  text-align: center;
 }
 .checkcontainer {
   margin: 10px;
