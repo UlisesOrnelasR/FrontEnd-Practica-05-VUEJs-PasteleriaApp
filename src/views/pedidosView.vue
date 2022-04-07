@@ -69,6 +69,9 @@
             <label for="ornament6">Nuts</label>
           </div>
         </div>
+        <div class="submit">
+          <input type="submit" value="Send">
+        </div>
       </form>
     </div>
   </div>
@@ -76,7 +79,6 @@
 
 <script>
 export default {
-
 }
 </script>
 
@@ -127,5 +129,24 @@ input[type=radio] {
 .checkcontainer>*{
   margin: 5px;
   text-align: center;
+}
+/*  Style submit  */
+.submit {
+  width: 100%;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+input[type=submit] {
+  cursor: pointer; 
+  font-size: 15px;
+  font-weight: 600;
+  color: #FF6B6C;
+  transition: all 0.5s ease-in-out;
+}
+input[type=submit]:hover {
+  background-color: #FF6B6C;
+  color: #fff;
 }
 </style>
