@@ -39,7 +39,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 
 .pasteleroView {
   margin: 20px;

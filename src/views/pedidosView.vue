@@ -78,6 +78,7 @@
 </template>
 
 <script>
+
 export default {
   data: () => ({
     variables: {
@@ -102,22 +103,7 @@ export default {
   methods: {
     procesar() {
       //alert(this.variables.nombre);
-      console.log(this.variables.nombre);
-      console.log(this.variables.telefono);
-      console.log(this.variables.correo);
-      console.log(this.variables.comentarios);
-      console.log(this.variables.chocolate);
-      console.log(this.variables.Vainilla);
-      console.log(this.variables.Strawberry);
-      console.log(this.variables.Lemon);
-      console.log(this.variables.Carrot);
-      console.log(this.variables.Cheese);
-      console.log(this.variables.ornament1);
-      console.log(this.variables.ornament2);
-      console.log(this.variables.ornament3);
-      console.log(this.variables.ornament4);
-      console.log(this.variables.ornament5);
-      console.log(this.variables.ornament6); 
+       
     }
   }
 };
